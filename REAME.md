@@ -18,26 +18,25 @@
     1 日 1 問やる（時間あれば 2・3 問やってみる）
     →javaScript の基礎補強
 
-## スケジュール（更新：5/24）
+## スケジュール（更新：5/26）
 
-| 日付 | TODO                                                                                                                                                        |
-| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 5/24 | paiza D134:タイトルの長さ                                                                                                                                   |  |
-| 5/25 | paiza D007:N 倍の文字列(30min)<br>paiza D117:すごろくのサイコロ(30min)<br>React 超入門 chap2(3h)<br>React 公式ドキュメント Getting Started                  |  |
-| 5/26 | piza D138:おうむ返し(30min)<br>paiza D091:花粉の予報(30min)<br>React 超入門 chap3-1(3h)<br>React 公式ドキュメント MAIN CONCEPT 1-3                          |  |
-| 5/27 | paiza D144:5 桁の数字(30min)<br>paiza D089:数字の取得(30min)<br>React 超入門 chap3-2(3h)<br>React 公式ドキュメント MAIN CONCEPT 4-5                         |  |
-| 5/28 | paiza D131:脱出ゲーム(30min)<br>paiza D087:文字をくっつける(30min)<br>React 超入門 chap3-3(3h)<br>React 公式ドキュメント MAIN CONCEPT 6-7                   |  |
-| 5/29 | paiza D125:万歩計(30min)<br>paiza D081:家族で分ける(30min)<br>React 超入門 chap3-3＆4(3h)<br>React 公式ドキュメント MAIN CONCEPT 8-9                        |  |
-| 5/30 | paiza D120:鉛筆の数(30min)<br>paiza D080:忘年会の予算(30min)<br>今までの学習範囲をテキスト見ずにやってみる(3h)<br>React 公式ドキュメント MAIN CONCEPT 10-12 |  |
+| 日付    | TODO                                                                                                                                       |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 5/24    | paiza D134:タイトルの長さ                                                                                                                  |  |
+| 5/25-26 | paiza D007:N 倍の文字列(30min)<br>paiza D117:すごろくのサイコロ(30min)<br>React 超入門 chap2(3h)<br>React 公式ドキュメント Getting Started |  |
+| 5/27    | piza D138:おうむ返し(30min)<br>paiza D091:花粉の予報(30min)<br>React 超入門 chap3-1(3h)<br>React 公式ドキュメント MAIN CONCEPT 1-3         |  |
+| 5/29    | paiza D144:5 桁の数字(30min)<br>paiza D089:数字の取得(30min)<br>React 超入門 chap3-2(3h)<br>React 公式ドキュメント MAIN CONCEPT 4-5        |  |
+| 5/30    | paiza D131:脱出ゲーム(30min)<br>paiza D087:文字をくっつける(30min)<br>React 超入門 chap3-3(3h)<br>React 公式ドキュメント MAIN CONCEPT 6-10 |  |
+| 5/31    | paiza D125:万歩計(30min)<br>paiza D081:家族で分ける(30min)<br>React 超入門 chap3-3＆4(3h)<br>React 公式ドキュメント MAIN CONCEPT 11-12     |  |
 
 ## やったこと
 
-| 日付 | 成果 |
-| ---- | ---- |
-| 5/24 |      |
-| 5/25 |      |
-| 5/26 |      |
-| 5/27 |      |
-| 5/28 |      |
-| 5/29 |      |
-| 5/30 |      |
+| 日付 | 成果                          |
+| ---- | ----------------------------- |
+| 5/24 | paiza D134:  完了             |
+| 5/25 | React 超入門 chap1-2 p93 まで |
+| 5/26 |                               |
+| 5/27 |                               |
+| 5/28 |                               |
+| 5/29 |                               |
+| 5/30 |                               |
